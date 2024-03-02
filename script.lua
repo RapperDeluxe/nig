@@ -1,1 +1,1 @@
-print(os.time())
+print('ran')
